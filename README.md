@@ -19,3 +19,5 @@
 <details>
   <img src="https://github-readme-stats.vercel.app/api?username=FirasBenAbdallah&show_icons=true&count_private=true&theme=dracula" />
 </details>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=safwenbarhoumi&show_icons=true&locale=en&layout=compact" alt="safwenbarhoumi" /></p>
