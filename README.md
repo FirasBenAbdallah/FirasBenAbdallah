@@ -20,7 +20,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=FirasBenAbdallah&show_icons=true&count_private=true&theme=dracula" />
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FirasBenAbdallah&langs_count=16&show_icons=true&locale=en&layout=pie" alt="FirasBenAbdallah" /></p>
 </details-->
-
+<details>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FirasBenAbdallah&show_icons=true&include_all_commits=true&theme=buefy" alt="FirasBenAbdallah's github stats" /></a>
 </br>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirasBenAbdallah&langs_count=16&layout=pie&theme=buefy" /></a>
+</details>
