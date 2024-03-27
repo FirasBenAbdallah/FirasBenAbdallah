@@ -18,7 +18,7 @@
 
 <details>
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FirasBenAbdallah&show_icons=true&include_all_commits=true&theme=tokyonight" alt="FirasBenAbdallah's github stats" /> -->
-  <img  alt="FirasBenAbdallah's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/FirasBenAbdallah?cardType=level&preferLogin=false" />
+  <img  alt="FirasBenAbdallah's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/FirasBenAbdallah?cardType=octocat&theme=tokyonight&preferLogin=false" />
   </br>
   </br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirasBenAbdallah&langs_count=16&layout=pie&theme=tokyonight" />
